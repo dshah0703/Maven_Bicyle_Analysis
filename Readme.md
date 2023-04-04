@@ -21,11 +21,20 @@ Created dashboard report for Sales performance of the Adventure Works Cycles thr
 
 Contains Monthly revenue, orders & returns, top product by profit & order, total orders by category & sub category, quantity sold by country, quantity sold & profit by different regions and total orders return rate by each product name.
 
+![image](https://user-images.githubusercontent.com/77552378/229671385-83c27bcd-da1b-43b1-b375-a60f9e62d722.png)
+
+
 ### ➡️ 2nd page (Product Details) 📜:
 
 Contains current month orders vs. target, current month revenue vs. target, current month returns as compared to previous month, weekly profit & returns and price adjustments for each product.
 
+![image](https://user-images.githubusercontent.com/77552378/229671570-f8079715-2e89-4d9f-a8c9-262cc05482b4.png)
+
+
 ### ➡️ 3rd page (Customer details) 📜:
 
 Contains customer name, orders by occupation, gender, age & income level, orders & revenue by month.
+
+![image](https://user-images.githubusercontent.com/77552378/229671644-4b1ef740-033d-48fb-ad8c-a89585ba8b16.png)
+
 
