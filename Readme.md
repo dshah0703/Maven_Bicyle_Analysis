@@ -14,7 +14,7 @@ Client needs a way to track sales, revenue, profit, returns, compare regional pe
 
 ## Description: -
 
-Here I’m playing role as a Lead Business Intelligence Analyst for Adventure Works Cycles.
+Here I’m playing role as a Lead Business Intelligence Analyst for Maven Bicycle Analysis.
 Created dashboard report for Sales performance of the Adventure Works Cycles through PowerBI using data provided by Maven Analytics, to find insights about the overall performance, profit, sales, top product, top customer, total orders by category and subcategory etc.
 
 ### ➡️ 1st page (Summary) 📜:
