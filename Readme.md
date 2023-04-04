@@ -35,6 +35,6 @@ Contains current month orders vs. target, current month revenue vs. target, curr
 
 Contains customer name, orders by occupation, gender, age & income level, orders & revenue by month.
 
-![image](https://user-images.githubusercontent.com/77552378/229671644-4b1ef740-033d-48fb-ad8c-a89585ba8b16.png)
+![image](https://user-images.githubusercontent.com/77552378/229671796-d2af7322-5e33-41f2-8c79-56fb22fceaa3.png)
 
 
